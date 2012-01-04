@@ -1,0 +1,9 @@
+/adm/etc
+  i3_channels
+
+/adm/include
+  intermud3.h
+
+/adm/daemons/chmodules
+  i3.c
+  i3services/*
